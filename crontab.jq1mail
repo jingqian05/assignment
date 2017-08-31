@@ -1,0 +1,1 @@
+59 23 31 8 * echo 'Hello Dr.craig' | mail -s 'assignment due by 8/31' davidwcr@usc.edu
